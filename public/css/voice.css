@@ -1,0 +1,52 @@
+body{
+    background-image: url("../img/speaker.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:0;
+}
+
+*{
+    text-align: center;
+}
+
+
+.cp_btn {
+    margin-top:60px;
+	text-align: center;
+	/* text-decoration: none; */
+    color:red;
+    font-size: 10px;
+	width: 120px;
+	height: 120px;
+	line-height: 120px;
+	border: red;
+    border-radius: 50%;
+    font-size:6px;
+    font-weight: bold;
+    transition: 6s;
+}
+.cp_btn:hover {
+	transform: rotateY(360deg);
+}
+
+#textarea{
+    padding-top:30px;
+    color:white;
+    
+
+}
+
+#textarea2{
+    padding-top:20px;
+    color:white; 
+    
+
+}
+
+#textarea3{
+padding-top:20px;
+color:white;
+font-weight: 100
+}
+
+
